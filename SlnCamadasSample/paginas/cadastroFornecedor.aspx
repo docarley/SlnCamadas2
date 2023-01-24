@@ -14,12 +14,14 @@
     </header>
     <form id="form1" runat="server">
         <div class="telaForm">
+            <h1>Teste</h1>
             <p>Cadastro</p>
             <asp:TextBox ID="txtNome" runat="server" placeholder="Nome do fornecedor"></asp:TextBox>
             <asp:TextBox ID="txtCidade" runat="server" placeholder="Cidade"></asp:TextBox>
             <asp:TextBox ID="txtCNPJ" runat="server" placeholder="CNPJ" MaxLength="14" TextMode="Number"></asp:TextBox>
             <asp:LinkButton ID="lkbCadastrar" runat="server" OnClick="lkbCadastrar_Click">Cadastrar</asp:LinkButton>
             <asp:Label ID="lblMensagem" runat="server" Text=""></asp:Label>
+
         </div>
     </form>
 </body>
