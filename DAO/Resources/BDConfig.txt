@@ -1,0 +1,7 @@
+﻿
+MS SQL Server version:	MS SQL 2016 Express
+MS SQL Server address:	turmasti.mssql.somee.com
+Login name:	docarl3_SQLLogin_1
+Login password:	awubq1dy9q
+Connection string:
+workstation id=turmasti.mssql.somee.com;packet size=4096;user id=docarl3_SQLLogin_1;pwd=awubq1dy9q;data source=turmasti.mssql.somee.com;persist security info=False;initial catalog=turmasti

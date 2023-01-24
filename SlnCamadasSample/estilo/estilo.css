@@ -1,0 +1,12 @@
+﻿header,p {
+    text-align:center;
+}
+
+.telaForm {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+
