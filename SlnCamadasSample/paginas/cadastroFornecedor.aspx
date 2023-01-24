@@ -14,7 +14,7 @@
     </header>
     <form id="form1" runat="server">
         <div class="telaForm">
-            <h1>Teste</h1>
+            <h1>Teste 2</h1>
             <p>Cadastro</p>
             <asp:TextBox ID="txtNome" runat="server" placeholder="Nome do fornecedor"></asp:TextBox>
             <asp:TextBox ID="txtCidade" runat="server" placeholder="Cidade"></asp:TextBox>
